@@ -45,7 +45,7 @@ instilled in me a strong sense of discipline, teamwork, and perseverance..**
 
 <h3 align="left">🚀 My Featured Projects</h3>
 
-### 🔭 [Exoplanet Finder using Machine Learning] ((https://github.com/Srisanjay-S/Exo_planet))
+### 🔭 [Exoplanet Finder using Machine Learning]((https://github.com/Srisanjay-S/Exo_planet))
 > A deep learning-based AI model to detect and classify exoplanets using NASA’s Kepler dataset.  
 > Includes preprocessing, feature selection, and ensemble ML models to explore new planetary systems.  
 > **Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, Matplotlib  
