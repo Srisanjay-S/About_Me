@@ -1,34 +1,28 @@
 <h1 align="center">Hi 👋, I'm Srisanjay S</h1>
-<h3 align="center">I'm a Machine Learning Expert from India</h3>
+<h3 align="center">A Machine Learning Expert from India</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=srisanjayvk&label=Profile%20views&color=0e75b6&style=flat" alt="srisanjayvk" /> 
+  <img src="https://komarev.com/ghpvc/?username=Srisanjay-S&label=Profile%20views&color=0e75b6&style=flat" alt="Srisanjay-S" /> 
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Exoplanet Finding AI Model to Explore New Worlds**
+- 🔭 I’m currently working on **Amphisoft Technologies** as AI/ML Engineer
 
 - 🌱 I have completed **Data Science with Python at IPCS Global Education**
 
-- 💬 **As an engineering graduate with a strong passion for data-driven technologies, I embarked on my career in the field of Data Science, mastering advanced analytical and machine learning skills at IPCS Global Education.**
+- 💬 **A competent technology and visualization professional with a high level of consistency in work, ensuring
+that tasks are completed efficiently and with the utmost attention to detail. My background in sports has
+instilled in me a strong sense of discipline, teamwork, and perseverance..**
 
   **"Empowered Leadership"**  
   🔹 President of Uyir Club, KPRIET - *2022*  
   🔹 Ball Badminton Team Captain - *2021 & 2022*  
   🔹 Event Organizer at TNGR Sports Club - *2023 & 2024*
 
-  Through hands-on experience, I have successfully implemented various projects demonstrating my technical and analytical skills:
-  - 📊 Built an **IPL Dashboard in Power BI**, blending sports analytics with storytelling.  
-  - 👟 Designed an **Excel-based Footwear Dashboard** showcasing data visualization skills.  
-  - 🏠 Developed a **House Price Prediction Model** using Linear Regression.  
-  - 🚌 Created a **Bus Reservation System in Python**, integrating logic and design.  
-
-  My GitHub showcases my continuous learning and innovation in **Data Science and Machine Learning**.
-
 - 📫 Reach me at **srisanjayvk2002@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1nrAQwqlQ0Q7bwR0p3lY9QedzEedqLK2-/view?usp=drive_link)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1UDUz4_HGW5Yi9Z07rrfOTvIi5U4KH54D/view?usp=drive_link)
 
 - ⚡ Fun fact: **I think I am a wide thinker!**
 
@@ -49,6 +43,43 @@
 
 ---
 
+<h3 align="left">🚀 My Featured Projects</h3>
+
+### 🔭 [Exoplanet Finder using Machine Learning](https://github.com/Srisanjay-S/Exoplanet-Finder-ML)
+> A deep learning-based AI model to detect and classify exoplanets using NASA’s Kepler dataset.  
+> Includes preprocessing, feature selection, and ensemble ML models to explore new planetary systems.  
+> **Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, Matplotlib  
+
+---
+
+### 🎨 [Asian Paints Stock Market Prediction using ML](https://github.com/Srisanjay-S/AsianPaints-Stock-Prediction)
+> A time-series forecasting model predicting Asian Paints stock prices using historical data.  
+> Implemented EDA, feature engineering, and LSTM-based modeling for trend prediction.  
+> **Tech Stack:** Python, Scikit-learn, LSTM, Pandas, Seaborn, Matplotlib  
+
+---
+
+### 💬 [Amazon Review Sentiment Analysis using NLP](https://github.com/Srisanjay-S/Amazon-Review-Sentiment-Analysis)
+> NLP project analyzing Amazon customer reviews to classify sentiments as Positive, Negative, or Neutral.  
+> Applied text preprocessing, TF-IDF vectorization, and ML models for sentiment extraction.  
+> **Tech Stack:** Python, NLTK, Scikit-learn, WordCloud, Pandas  
+
+---
+
+### 🏏 [IPL Analytical Dashboard (2008–2024)](https://github.com/Srisanjay-S/IPL-Analytics-Dashboard)
+> Power BI Dashboard analyzing 16 years of IPL data for team performance, player stats, and trends.  
+> Designed interactive visuals to identify match-winning factors and team dominance.  
+> **Tech Stack:** Power BI, Excel, DAX, Data Modeling  
+
+---
+
+### 👟 [Branded Footwear Analytical Dashboard](https://github.com/Srisanjay-S/Footwear-Analytics-Dashboard)
+> Excel-based analytical dashboard visualizing sales trends, customer insights, and brand growth.  
+> Includes dynamic charts, pivot tables, and automated KPIs to support data-driven business strategy.  
+> **Tech Stack:** Microsoft Excel, Advanced Formulas, Visualization Tools  
+
+---
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -62,6 +93,9 @@
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -79,13 +113,13 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=srisanjayvk&show_icons=true&theme=tokyonight" alt="GitHub stats](https://github.com/Srisanjay-S)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srisanjay-S&show_icons=true&theme=tokyonight" alt="Srisanjay's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisanjayvk&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Srisanjay-S&theme=tokyonight" alt="Srisanjay's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisanjayvk&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srisanjay-S&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
