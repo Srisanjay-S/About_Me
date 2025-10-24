@@ -52,7 +52,7 @@ instilled in me a strong sense of discipline, teamwork, and perseverance..**
 
 ---
 
-### 🎨 [Asian Paints Stock Market Prediction using ML](https://github.com/Srisanjay-S/AsianPaints-Stock-Prediction)
+### 🎨 [Asian Paints Stock Market Prediction using ML](https://github.com/Srisanjay-S/Asian-Paint-Stock-prediction-ML)
 > A time-series forecasting model predicting Asian Paints stock prices using historical data.  
 > Implemented EDA, feature engineering, and LSTM-based modeling for trend prediction.  
 > **Tech Stack:** Python, Scikit-learn, LSTM, Pandas, Seaborn, Matplotlib  
@@ -66,14 +66,14 @@ instilled in me a strong sense of discipline, teamwork, and perseverance..**
 
 ---
 
-### 🏏 [IPL Analytical Dashboard (2008–2024)](https://github.com/Srisanjay-S/IPL-Analytics-Dashboard)
+### 🏏 [IPL Analytical Dashboard (2008–2024)](https://github.com/Srisanjay-S/IPL-Analytics-Dashboard-using-MS-Power-Bi)
 > Power BI Dashboard analyzing 16 years of IPL data for team performance, player stats, and trends.  
 > Designed interactive visuals to identify match-winning factors and team dominance.  
 > **Tech Stack:** Power BI, Excel, DAX, Data Modeling  
 
 ---
 
-### 👟 [Branded Footwear Analytical Dashboard](https://github.com/Srisanjay-S/Footwear-Analytics-Dashboard)
+### 👟 [Branded Footwear Analytical Dashboard](https://github.com/Srisanjay-S/Footwear-Dashboard-using-MS-Excel)
 > Excel-based analytical dashboard visualizing sales trends, customer insights, and brand growth.  
 > Includes dynamic charts, pivot tables, and automated KPIs to support data-driven business strategy.  
 > **Tech Stack:** Microsoft Excel, Advanced Formulas, Visualization Tools  
