@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisanjayvk&label=Profile%20views&color=0e75b6&style=flat" alt="srisanjayvk" /> </p>
 
-- 🔭 I’m currently working on **Exoplanet finder AI Model to explore new world**
+- 🔭 I’m currently working on **Exoplanet finding AI Model to explore new world**
 
 - 🌱 I have completed **Data science with python in IPCS Global Education**
 
