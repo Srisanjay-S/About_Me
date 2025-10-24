@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srisanjayvk&label=Profile%20views&color=0e75b6&style=flat" alt="srisanjayvk" /> </p>
 
-- 🔭 I’m currently working on **Stock market linear model**
+- 🔭 I’m currently working on **Exoplanet finder AI Model to explore new world**
 
-- 🌱 I’m currently learning **Data science with python in IPCS Global Education**
+- 🌱 I have completed **Data science with python in IPCS Global Education**
 
 - 💬 **As an engineering graduate with a strong passion for data-driven technologies, I embarked on my career in the field of Data Science, mastering advanced analytical and machine learning skills at IPCS Global Education. "Empowered Leadership" 🔹 President of uyir club kpriet - 2022 🔹 Ball Badmintion Team Captain - 2021,2022 🔹 Event organizer in Tngr Sports club - 2023,2024 Through hands-on experience, I have developed and successfully implemented various projects, showcasing my expertise in data science. 🔹 Built an IPL Dashboard in MS Power BI, blending sports analytics with compelling data storytelling. 🔹 Designed an Excel-based Footwear Dashboard, demonstrating proficiency in data structuring and visualization. 🔹 Built a House Price Prediction Model using Linear Regression, leveraging Machine Learning for real-world applications. 🔹 Developed a Bus Reservation System in Python, combining programming with practical problem-solving. My work is actively shared on GitHub, reflecting my commitment to innovation, continuous learning, and technical excellence.**
 
