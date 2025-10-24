@@ -79,7 +79,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srisanjayvk&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=srisanjayvk&show_icons=true&theme=tokyonight" alt="GitHub stats](https://github.com/Srisanjay-S)" />
 </p>
 
 <p align="center">
