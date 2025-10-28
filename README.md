@@ -22,7 +22,7 @@ instilled in me a strong sense of discipline, teamwork, and perseverance..**
 
 - 📫 Reach me at **srisanjayvk2002@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1nrAQwqlQ0Q7bwR0p3lY9QedzEedqLK2-/view?usp=drive_link)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1yYik8xPo3n3BN0sHnqrrEDxG7nErIH3b/view?usp=drive_link))
 
 - ⚡ Fun fact: **I think I am a wide thinker!**
 
