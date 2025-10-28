@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Amphisoft Technologies** as AI/ML Engineer
+- 🔭 I’m currently working at **Amphisoft Technologies** as an AI/ML Engineer
 
 - 🌱 I have completed **Data Science with Python at IPCS Global Education**
 
