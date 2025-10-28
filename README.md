@@ -109,17 +109,21 @@ instilled in me a strong sense of discipline, teamwork, and perseverance..**
 </p>
 
 ---
+<h3 align="left">🚀 Future Goals</h3>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+- Build AI-driven automation for industrial analytics  
+- Develop open-source ML tools for researchers  
+- Contribute to space-data exploration and scientific AI projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srisanjay-S&show_icons=true&theme=tokyonight" alt="Srisanjay's GitHub stats" />
-</p>
+- <h3 align="left">📂 Project Portfolio</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Srisanjay-S&theme=tokyonight" alt="Srisanjay's GitHub streak" />
-</p>
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [Exoplanet Finder](https://github.com/Srisanjay-S/Exo_planet) | Deep learning to identify exoplanets | Python, TensorFlow |
+| [Amazon Sentiment Analysis](https://github.com/Srisanjay-S/Amazon-Review-Sentiment-Analysis) | NLP on Amazon reviews | Python, NLTK |
+| [IPL Dashboard](https://github.com/Srisanjay-S/IPL-Analytics-Dashboard-using-MS-Power-Bi) | Power BI sports analytics | Power BI, Excel |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srisanjay-S&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+> “Dreams in my vision, logic in my mission”  
+> *– Srisanjay S*
+
