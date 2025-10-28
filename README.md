@@ -124,5 +124,5 @@ instilled in me a strong sense of discipline, teamwork, and perseverance..**
 |----------|--------------|-------------|
 | [Exoplanet Finder](https://github.com/Srisanjay-S/Exo_planet) | Deep learning to identify exoplanets | Python, TensorFlow |
 | [Amazon Sentiment Analysis](https://github.com/Srisanjay-S/Amazon-Review-Sentiment-Analysis) | NLP on Amazon reviews | Python, NLTK |
-| [IPL Dashboard](https://github.com/Srisanjay-S/IPL-Analytics-Dashboard-using-MS-Power-Bi) | Power BI sports analytics | Power BI, Excel |
+| [IPL Dashboard](https://github.com/Srisanjay-S/IPL-Analytics-Dashboard-using-MS-Power-Bi) | Power BI sports analytics | Power BI, Excel | 
 
