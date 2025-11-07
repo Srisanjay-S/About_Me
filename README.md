@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Srisanjay S</h1>
 <h3 align="center">A Machine Learning Expert from India</h3>
 
-<p align="center"> 
-  <img src="(https://drive.google.com/file/d/1ontvIimcASoCy7TYkoXn3QhGtyOSfXGi/view?usp=drive_link)" alt=" My CertifiedSrisanjay-S" /> 
+<p align="center">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1ontvIimcASoCy7TYkoXn3QhGtyOSfXGi" 
+    alt="Srisanjay S" 
+    width="220" 
+    height="220" 
+    style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
+  />
+  <br>
+  <b>Srisanjay S</b>
 </p>
+
 
 ---
 > “Dreams in my vision, logic in my mission”  
