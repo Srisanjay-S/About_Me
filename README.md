@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Srisanjay S</h1>
 <h3 align="center">A Machine Learning Expert from India</h3>
 
+<p align="center">
+  <img 
+    src="(https://drive.google.com/uc?export=view&id=1ontvIimcASoCy7TYkoXn3QhGtyOSfXGi
+)" 
+    alt="Srisanjay S" 
+    width="220" 
+    height="220" 
+    style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
+  />
+</p>
+
+
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Srisanjay-S&label=Profile%20views&color=0e75b6&style=flat" alt="Srisanjay-S" /> 
 </p>
