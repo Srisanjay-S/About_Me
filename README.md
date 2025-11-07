@@ -2,7 +2,7 @@
 <h3 align="center">A Machine Learning Expert from India</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Srisanjay-S&label=Profile%20views&color=0e75b6&style=flat" alt="Srisanjay-S" /> 
+  <img src="(https://drive.google.com/file/d/1ontvIimcASoCy7TYkoXn3QhGtyOSfXGi/view?usp=drive_link)" alt="Srisanjay-S" /> 
 </p>
 
 ---
