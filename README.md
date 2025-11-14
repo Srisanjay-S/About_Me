@@ -18,6 +18,14 @@
 > “Dreams in my vision, logic in my mission”  
 > *– Srisanjay S*
 
+---
+
+<h3 align="left">🎓 Education</h3>
+
+- **Bachelor of Engineering (B.E) – Electrical and Electronics Engineering**  
+  *KPR Institute of Engineering and Technology, Coimbatore*  
+  **2020 – 2024**
+  
 - 🔭 I’m currently working at **Amphisoft Technologies** as an AI/ML Engineer
 
 - 🌱 I have completed **Data Science with Python at IPCS Global Education**
@@ -105,22 +113,6 @@ My background in sports has instilled in me a strong sense of discipline, teamwo
 - Build AI-driven automation for industrial analytics  
 - Develop open-source ML tools  
 - Contribute to scientific research and space-data exploration  
-
----
-
-<h3 align="left">🎓 Education</h3>
-
-- **Bachelor of Engineering (B.E) – Electrical and Electronics Engineering**  
-  *KPR Institute of Engineering and Technology, Coimbatore*  
-  **2019 – 2023**
-
-- **Data Science with Python Certification**  
-  *IPCS Global Education*  
-  **2024**
-
-- **Higher Secondary Education – Computer Science Stream**  
-  *SKV Higher Secondary School*  
-  **2017 – 2019**
 
 ---
 
