@@ -10,7 +10,7 @@
     style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
   />
   <br>
-  <b>Srisanjay S</b>
+  <b>Srisanjay S BE-EEE</b>
 </p>
 
 
