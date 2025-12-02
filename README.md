@@ -66,7 +66,17 @@ My background in sports has instilled in me a strong sense of discipline, teamwo
 
 ### 🔭 [Exoplanet Finder using Machine Learning](https://github.com/Srisanjay-S/Exo_planet)
 > A deep learning-based AI model to detect and classify exoplanets using NASA’s Kepler dataset.  
-> **Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, Matplotlib  
+> **Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, Matplotlib
+>
+> <p align="center">
+  <img 
+    src=(https://drive.google.com/file/d/1Fx8lftf6AcAk8UqPgDnd2H0YcsSenK_g/view?usp=drive_link) 
+    alt="Exoplanet Finder" 
+    width="500"
+    style="border-radius:10px;"
+  />
+</p>
+ 
 
 ---
 
