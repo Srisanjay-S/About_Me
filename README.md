@@ -70,7 +70,7 @@ My background in sports has instilled in me a strong sense of discipline, teamwo
 >
 <p align="center">
   <img 
-    src="https://drive.google.com/uc?export=view&id=1ontvIimcASoCy7TYkoXn3QhGtyOSfXGi" 
+    src="(https://drive.google.com/file/d/1Fx8lftf6AcAk8UqPgDnd2H0YcsSenK_g/view?usp=drive_link)" 
     alt="Srisanjay S" 
     width="220" 
     height="220" 
