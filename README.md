@@ -70,8 +70,8 @@ My background in sports has instilled in me a strong sense of discipline, teamwo
 >
 <p align="center">
   <img 
-    src=(https://drive.google.com/file/d/1Fx8lftf6AcAk8UqPgDnd2H0YcsSenK_g/view?usp=drive_link) 
-    alt="Srisanjay S" 
+    src=(https://drive.google.com/file/d/1Fx8lftf6AcAk8UqPgDnd2H0YcsSenK_g/view?usp=drive_link)
+    alt="Reference" 
     width="220" 
     height="220" 
     style="border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
