@@ -41,9 +41,9 @@ My background in sports has instilled in me a strong sense of discipline, teamwo
 - 📫 Reach me at **srisanjayvk2002@gmail.com**
 
 - 📄 Know about my experiences:  
-  [My Resume](https://drive.google.com/file/d/1yYik8xPo3n3BN0sHnqrrEDxG7nErIH3b/view?usp=drive_link)
+  [My Resume](https://drive.google.com/file/d/1WZOAOnf2OLxD19GimtYQE0P0SAtQKVIU/view?usp=drive_link)
 
-- ⚡ Fun fact: **I think I am a wide thinker!**
+- ⚡ Fun fact: **I think ...I am a wide thinker!**
 
 ---
 
