@@ -26,7 +26,7 @@
   *KPR Institute of Engineering and Technology, Coimbatore*  
   **2020 – 2024**
   
-- 🔭 I’m currently working at **Amphisoft Technologies** as an AI/ML Engineer
+- 🔭 I’m currently working at **Amphisoft Technologies** as an Software Trainee.
 
 - 🌱 I have completed **Data Science with Python at IPCS Global Education**
 
